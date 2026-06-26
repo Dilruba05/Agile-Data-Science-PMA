@@ -19,3 +19,8 @@ Machine Learning Prediction of Online Course Completion
 - Random Forest model implemented
 - Model performance improved
 - Model comparison completed
+
+## Sprint 4 - Automation
+
+- Automated data validation script developed
+- GitHub version control implemented
