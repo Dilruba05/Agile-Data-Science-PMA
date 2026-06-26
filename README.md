@@ -13,3 +13,9 @@ Machine Learning Prediction of Online Course Completion
 - Logistic Regression model developed
 - Model evaluated using Accuracy, Precision, Recall and F1-score
 - Confusion matrix generated
+
+- ## Sprint 3 - Improved Model
+
+- Random Forest model implemented
+- Model performance improved
+- Model comparison completed
